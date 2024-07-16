@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 <br />
 <div align="center">
   <a href="https://github.com/sarahkelly-sn/Technical-Case-Hotmart">
