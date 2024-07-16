@@ -1,4 +1,3 @@
-<br />
 <div align="center">
   <a href="https://github.com/sarahkelly-sn/Technical-Case-Hotmart">
     <img src=".github/logo.png" alt="Logo" width="120" height="120">
